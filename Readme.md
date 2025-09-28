@@ -261,7 +261,7 @@ We will create a service in 11 lines of code.
 At the root of the project, create a new file called service.yaml and add the following:
 
 ```
-piVersion: v1
+apiVersion: v1
 kind: Service
 metadata:
   name: myapp
